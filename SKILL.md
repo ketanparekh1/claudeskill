@@ -11,8 +11,7 @@ diagnosing it once running.
 
 ## Part 1: Naming convention
 
-Based on "Attunity Replicate Naming Conventions — Proposed Standards"
-(Gwyn Jones, Sep 2019). A proposed convention, not vendor-mandated — the
+A proposed convention, not vendor-mandated — the
 value comes from applying it *consistently*, not from the exact letters.
 
 ### Get the org's real codes first
